@@ -5,7 +5,7 @@ Online novel subscription is a multi-billions business back in China. This small
 
 The app has the following dependencies:
 
-Mongodb (Install the database first)
-Gson
-Jsoup
-Logback
+Mongodb (Install the database first)  
+Gson  
+Jsoup  
+Logback  
