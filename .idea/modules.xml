@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/novelCrawler.iml" filepath="$PROJECT_DIR$/.idea/modules/novelCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/novelCrawler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/novelCrawler_main.iml" group="novelCrawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/novelCrawler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/novelCrawler_test.iml" group="novelCrawler" />
+    </modules>
+  </component>
+</project>
